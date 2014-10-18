@@ -79,7 +79,7 @@ hi Comment                   guifg=#af875f ctermfg=137
 hi Todo                      guifg=#df8700 guibg=NONE gui=bold ctermfg=172 ctermbg=NONE cterm=bold
 hi Constant                  guifg=#6D9CBE ctermfg=73
 hi Define                    guifg=#af5f00 ctermfg=130
-hi Delimiter                 guifg=#519F50 ctermfg=22
+hi Delimiter                 guifg=#5fdf00 ctermfg=76
 hi Error                     guifg=#FFFFFF guibg=#990000 ctermfg=221 ctermbg=88
 hi WarningMsg                guifg=#800000 guibg=NONE ctermfg=1 ctermbg=NONE
 hi Function                  guifg=#ffdf5f gui=NONE ctermfg=221 cterm=NONE
